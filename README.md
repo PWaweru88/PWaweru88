@@ -1,6 +1,8 @@
 # Hi 👋, I'm Pete
 
+<marquee behavior="scroll" direction="left">
 🚀 Data | Cloud | AI/ML 
+</marquee>
 </br>
 </br>
 📍 Nairobi, Kenya
