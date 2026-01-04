@@ -1,8 +1,6 @@
 # Hi 👋, I'm Pete
 
-<marquee behavior="scroll" direction="left">
 🚀 Data | Cloud | AI/ML 
-</marquee>
 </br>
 </br>
 📍 Nairobi, Kenya
@@ -17,7 +15,7 @@ I’m a Full-stack Data Practitioner and cloud engineer focused on building **sc
 
 ## 🛠️ Core Skills
 
-** Data Engineering **
+**Data Engineering**
 
 - 🧮 SQL
 - 🐍 Python
@@ -25,7 +23,7 @@ I’m a Full-stack Data Practitioner and cloud engineer focused on building **sc
 - 🔄 Data Integration (ETL, ELT, ETLT)
 - ⏱️ Orchestration
 
-** Cloud **
+**Cloud**
 
 - ☁️ AWS
 - 🏗️ Infrastructure as Code (IaC)
@@ -33,7 +31,7 @@ I’m a Full-stack Data Practitioner and cloud engineer focused on building **sc
 - 📦 Containerization
 - 📡 Monitoring & Observability
 
-** AI / ML **
+**AI / ML**
 
 - 🧠 Model Development & Deployment
 - 🔬 Deep Learning & Neural Networks
