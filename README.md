@@ -15,30 +15,37 @@ I’m a Full-stack Data Practitioner and cloud engineer focused on building **sc
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Core Skills
 
-**Data Engineering**
-- SQL (Athena, Redshift, Postgres)
-- Python
-- Bash
-- Apache Spark, AWS Glue
-- Data Modeling & Architecture
+** Data Engineering **
 
-**Cloud**
-- AWS
-- IaC
-- CI/CD & automation
+- 🧮 SQL
+- 🐍 Python
+- 🗄️ Databases (Relational, Non-relational, Graph, Vector)
+- 🔄 Data Integration (ETL, ELT, ETLT)
+- ⏱️ Orchestration
 
-**AI / ML**
-- Model Development & Deployment
-- Applied GenAI (RAG, Agents, Flows)
+** Cloud **
+
+- ☁️ AWS
+- 🏗️ Infrastructure as Code (IaC)
+- 💻 Shell Scripting
+- 📦 Containerization
+- 📡 Monitoring & Observability
+
+** AI / ML **
+
+- 🧠 Model Development & Deployment
+- 🔬 Deep Learning & Neural Networks
+- ✨ Applied GenAI (RAG, LLM Integrations, Agents, Flows)
+- ⚙️ MLOps
 
 ---
 
 ## 📈 What I’m Working On
 
 - Advanced data engineering patterns (streaming & incremental models)
-- MLOps & production ML pipelines
+- MLOps & production-grade Data and ML pipelines
 - Cost-efficient architectures
 
 ---
