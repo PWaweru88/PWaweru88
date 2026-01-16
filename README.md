@@ -35,7 +35,7 @@ I’m a Full-stack Data Practitioner and cloud engineer focused on building **sc
 
 - 🧠 Model Development & Deployment
 - 🔬 Deep Learning & Neural Networks
-- ✨ Applied GenAI (RAG, LLM Integrations, Agents, Flows)
+- ✨ Applied GenAI and Agentic AI (RAG, LLM Integrations, Agents, Flows)
 - ⚙️ MLOps
 
 ---
