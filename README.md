@@ -54,6 +54,8 @@ I’m a Full-stack Data Practitioner and cloud engineer focused on building **sc
 - AWS Certified AI Practitioner
 - AWS Certified Solutions Architect - Associate
 - AWS Certified Data Engineer - Associate
+- AWS Certified Machine Learning Engineer - Associate
+- AWS Certified Developer - Associate
 - AWS Certified Machine Learning – Specialty
 - Neo4j Certified Professional
 
