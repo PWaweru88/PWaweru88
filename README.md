@@ -59,6 +59,7 @@ I’m a Full-stack Data Practitioner and cloud engineer focused on building **sc
 - AWS Certified Machine Learning – Specialty
 - AWS Certified Solutions Architect - Professional
 - Neo4j Certified Professional
+- SnowPro Core
 
 - (More in progress 🚧)
 
