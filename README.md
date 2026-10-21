@@ -42,9 +42,10 @@ I’m a Full-stack Data Practitioner and cloud engineer focused on building **sc
 
 ## 📈 What I’m Working On
 
-- Advanced data engineering patterns (streaming & incremental models)
+- Advanced data engineering patterns
+- Modern data architectures to support AI workflows
 - MLOps & production-grade Data and ML pipelines
-- Cost-efficient architectures
+
 
 ---
 
