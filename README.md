@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a Full-stack Data Practitioner and cloud engineer focused on building **scalable, reliable, and business-driven data platforms**.  
+I’m a Full-stack Data Practitioner and cloud engineer focused on building **scalable, reliable, and business-driven data and AI platforms**.  
 
 ---
 
