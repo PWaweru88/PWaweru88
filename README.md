@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi 👋, I'm Pete
 
-<!--
-**PWaweru88/PWaweru88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing Effect](https://demolab.com+|+Cloud+|+AI%2FML;Full-Stack+Data+Practitioner)
 
-Here are some ideas to get you started:
+📍 Nairobi, Kenya
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 💫 About Me:
+👨‍💻 About Me  
+I’m a Full-stack Data Practitioner and cloud engineer focused on building scalable, reliable, and business-driven data and AI platforms.
+
+🛠️ Core Skills  
+Data Engineering  
+
+🧮 SQL  
+🐍 Python  
+🗄️ Databases (Relational, Non-relational, Graph, Vector)  
+🔄 Data Integration (ETL, ELT, ETLT)  
+⏱️ Orchestration  
+
+Cloud  
+☁️ AWS  
+🏗️ Infrastructure as Code (IaC)  
+💻 Shell Scripting  
+📦 Containerization  
+📡 Monitoring & Observability  
+
+AI / ML  
+🧠 Model Development & Deployment  
+🔬 Deep Learning & Neural Networks  
+✨ Applied GenAI and Agentic AI (RAG, LLM Integrations, Agents, Flows)  
+⚙️ MLOps  
+
+📈 What I’m Working On  
+Advanced data engineering patterns  
+Modern data architectures to support AI workflows  
+MLOps & production-grade Data and ML pipelines  
+
+### 🎯 Certifications
+
+![Certifications Marquee](https://githubusercontent.com)
+
+*(More in progress 🚧)*
+
+---
+
+# 💻 Tech Stack:
+
+![Python](https://shields.io) ![Databricks](https://shields.io) ![PowerShell](https://shields.io) ![Bash](https://shields.io) ![Google Cloud](https://shields.io) ![Datadog](https://shields.io) ![AWS](https://shields.io) ![Anaconda](https://shields.io) ![Apache Spark](https://shields.io) ![Apache Kafka](https://shields.io) ![FastAPI](https://shields.io) ![Jinja](https://shields.io) ![Snowflake](https://shields.io) ![Streamlit](https://shields.io) ![Apache Airflow](https://shields.io) ![Apache Flink](https://shields.io) ![Amazon DynamoDB](https://shields.io) ![Neo4j](https://shields.io) ![MySQL](https://shields.io) ![SQLite](https://shields.io) ![Keras](https://shields.io) ![Matplotlib](https://shields.io) ![MLflow](https://shields.io) ![NumPy](https://shields.io) ![Pandas](https://shields.io) ![Plotly](https://shields.io) ![PyTorch](https://shields.io) ![Scikit-Learn](https://shields.io) ![TensorFlow](https://shields.io) ![GitHub Actions](https://shields.io) ![GitHub](https://shields.io) ![Terraform](https://shields.io)
+
+# 📊 GitHub Stats:
+
+![Stats](https://shion.dev)
+
+![Streak](https://demolab.com)
+
+![Languages](https://shion.dev)
+
+---
+[![Profile Visitors](https://komarev.com)](https://itsvg.in)
