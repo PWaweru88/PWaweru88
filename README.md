@@ -1,67 +1,24 @@
 # Hi 👋, I'm Pete
 
 🚀 Data | Cloud | AI/ML 
-
+</br>
+</br>
 📍 Nairobi, Kenya
 
 ---
 
 # 💫 About Me:
-👨‍💻 About Me  
-I’m a Full-stack Data Practitioner and cloud engineer focused on building scalable, reliable, and business-driven data and AI platforms.
+👨‍💻 About Me<br>I’m a Full-stack Data Practitioner and cloud engineer focused on building scalable, reliable, and business-driven data and AI platforms.<br><br>🛠️ Core Skills<br>Data Engineering<br><br>🧮 SQL<br>🐍 Python<br>🗄️ Databases (Relational, Non-relational, Graph, Vector)<br>🔄 Data Integration (ETL, ELT, ETLT)<br>⏱️ Orchestration<br>Cloud<br><br>☁️ AWS<br>🏗️ Infrastructure as Code (IaC)<br>💻 Shell Scripting<br>📦 Containerization<br>📡 Monitoring & Observability<br>AI / ML<br><br>🧠 Model Development & Deployment<br>🔬 Deep Learning & Neural Networks<br>✨ Applied GenAI and Agentic AI (RAG, LLM Integrations, Agents, Flows)<br>⚙️ MLOps<br>📈 What I’m Working On<br>Advanced data engineering patterns<br>Modern data architectures to support AI workflows<br>MLOps & production-grade Data and ML pipelines<br>🎯 Certifications<br>AWS Certified Cloud Practitioner<br><br>AWS Certified AI Practitioner<br><br>AWS Certified Solutions Architect - Associate<br><br>AWS Certified Data Engineer - Associate<br><br>AWS Certified Machine Learning Engineer - Associate<br><br>AWS Certified Developer - Associate<br><br>AWS Certified Machine Learning – Specialty<br><br>AWS Certified Solutions Architect - Professional<br><br>Neo4j Certified Professional<br><br>SnowPro Core<br><br>(More in progress 🚧)
 
-🛠️ Core Skills  
-Data Engineering  
-
-🧮 SQL  
-🐍 Python  
-🗄️ Databases (Relational, Non-relational, Graph, Vector)  
-🔄 Data Integration (ETL, ELT, ETLT)  
-⏱️ Orchestration  
-
-Cloud  
-☁️ AWS  
-🏗️ Infrastructure as Code (IaC)  
-💻 Shell Scripting  
-📦 Containerization  
-📡 Monitoring & Observability  
-
-AI / ML  
-🧠 Model Development & Deployment  
-🔬 Deep Learning & Neural Networks  
-✨ Applied GenAI and Agentic AI (RAG, LLM Integrations, Agents, Flows)  
-⚙️ MLOps  
-
-📈 What I’m Working On  
-Advanced data engineering patterns  
-Modern data architectures to support AI workflows  
-MLOps & production-grade Data and ML pipelines  
-
-### 🎯 Certifications
-
-| | |
-| --- | --- |
-| ![AWS Certified Cloud Practitioner](https://shields.io) | ![AWS Certified Developer Associate](https://shields.io) |
-| ![AWS Certified AI Practitioner](https://shields.io) | ![AWS Certified Machine Learning Specialty](https://shields.io) |
-| ![AWS Certified Solutions Architect Associate](https://shields.io) | ![AWS Certified Solutions Architect Professional](https://shields.io) |
-| ![AWS Certified Data Engineer Associate](https://shields.io) | ![Neo4j Certified Professional](https://shields.io) |
-| ![AWS Certified Machine Learning Engineer Associate](https://shields.io) | ![SnowPro Core](https://shields.io) |
-
-*(More in progress 🚧)*
-
----
 
 # 💻 Tech Stack:
-
-![Python](https://shields.io) ![Databricks](https://shields.io) ![PowerShell](https://shields.io) ![Bash](https://shields.io) ![Google Cloud](https://shields.io) ![Datadog](https://shields.io) ![AWS](https://shields.io) ![Anaconda](https://shields.io) ![Apache Spark](https://shields.io) ![Apache Kafka](https://shields.io) ![FastAPI](https://shields.io) ![Jinja](https://shields.io) ![Snowflake](https://shields.io) ![Streamlit](https://shields.io) ![Apache Airflow](https://shields.io) ![Apache Flink](https://shields.io) ![Amazon DynamoDB](https://shields.io) ![Neo4j](https://shields.io) ![MySQL](https://shields.io) ![SQLite](https://shields.io) ![Keras](https://shields.io) ![Matplotlib](https://shields.io) ![MLflow](https://shields.io) ![NumPy](https://shields.io) ![Pandas](https://shields.io) ![Plotly](https://shields.io) ![PyTorch](https://shields.io) ![Scikit-Learn](https://shields.io) ![TensorFlow](https://shields.io) ![GitHub Actions](https://shields.io) ![GitHub](https://shields.io) ![Terraform](https://shields.io)
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 # 📊 GitHub Stats:
-
-![Stats](https://shion.dev)
-
-![Streak](https://demolab.com)
-
-![Languages](https://shion.dev)
+![](https://github-readme-stats.shion.dev/api?username=PWaweru88&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=PWaweru88&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=PWaweru88&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![Profile Visitors](https://komarev.com)](https://itsvg.in)
+[![](https://komarev.com/ghpvc/?username=PWaweru88&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
