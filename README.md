@@ -1,6 +1,6 @@
 # Hi 👋, I'm Pete
 
-![Typing Effect](https://demolab.com+|+Cloud+|+AI%2FML;Full-Stack+Data+Practitioner)
+🚀 Data | Cloud | AI/ML 
 
 📍 Nairobi, Kenya
 
@@ -39,7 +39,13 @@ MLOps & production-grade Data and ML pipelines
 
 ### 🎯 Certifications
 
-![Certifications Marquee](https://githubusercontent.com)
+| | |
+| --- | --- |
+| ![AWS Certified Cloud Practitioner](https://shields.io) | ![AWS Certified Developer Associate](https://shields.io) |
+| ![AWS Certified AI Practitioner](https://shields.io) | ![AWS Certified Machine Learning Specialty](https://shields.io) |
+| ![AWS Certified Solutions Architect Associate](https://shields.io) | ![AWS Certified Solutions Architect Professional](https://shields.io) |
+| ![AWS Certified Data Engineer Associate](https://shields.io) | ![Neo4j Certified Professional](https://shields.io) |
+| ![AWS Certified Machine Learning Engineer Associate](https://shields.io) | ![SnowPro Core](https://shields.io) |
 
 *(More in progress 🚧)*
 
